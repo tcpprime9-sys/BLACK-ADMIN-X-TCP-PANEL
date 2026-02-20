@@ -1,2 +1,2 @@
-admin_password=4066
-global_duration=180
+admin_password=BLACKADMINX
+global_duration=1800
