@@ -12,7 +12,7 @@ from flask_socketio import SocketIO
 os.environ['PYTHONUNBUFFERED'] = '1'
 
 app = Flask(__name__)
-app.secret_key = "bot_secret_access_key_2026_99" 
+app.secret_key = "bot_by_black_admin_x_777" 
 socketio = SocketIO(app, cors_allowed_origins="*", async_mode='threading')
 user_sessions = {} 
 ADMIN_CONFIG = "admin_config.txt"
