@@ -1,2 +1,2 @@
 admin_password=blackadminx999
-global_duration=1800
+global_duration=180
