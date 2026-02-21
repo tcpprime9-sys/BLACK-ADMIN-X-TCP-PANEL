@@ -100,12 +100,12 @@ last_status_packet = None
 START_SPAM_DURATION = 18     
 WAIT_AFTER_MATCH_SECONDS = 20 
 START_SPAM_DELAY = 0.2       
-region = 'IN'
+region = 'BD'
 WHITELISTED_UIDS = {
-    "2270928791"  
+    "9909964014"  
 }
 WHITELIST_ONLY = True  
-BOT_OWNER_UID = 11686472351  
+BOT_OWNER_UID = 9909964014 
 PLAYER_NAME_CACHE = {}  
 freeze_running = False
 freeze_task = None
