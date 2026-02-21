@@ -1,2 +1,2 @@
 admin_password=black777
-global_duration=180
+global_duration=1800
