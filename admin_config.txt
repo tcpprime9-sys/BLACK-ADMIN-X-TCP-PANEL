@@ -1,2 +1,2 @@
-admin_password=black777
+admin_password=blackadminx999
 global_duration=1800
